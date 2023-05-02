@@ -25,11 +25,8 @@ config interface 'lan'
 config interface 'wan'
 	option device 'eth1'
 	option proto 'pppoe'
-	option username '13319368810'
-	option password 'aa123456'
+	option username '18179985226'
+	option password 'a1234567'
 	option ipv6 'auto'
 
-config interface 'wan6'
-	option device 'eth1'
-	option proto 'dhcpv6'
 
